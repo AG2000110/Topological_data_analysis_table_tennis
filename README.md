@@ -1,6 +1,5 @@
-![Analiza TDA danych tenisa stołowego-1](https://github.com/user-attachments/assets/683c1e9f-a14c-4317-a193-e431818edf29)
-![Analiza TDA danych tenisa stołowego-2](https://github.com/user-attachments/assets/82468efa-ab82-42ca-83d0-766744a13a7f)
-![Analiza TDA danych tenisa stołowego-3](https://github.com/user-attachments/assets/3677ddd8-6acc-49e8-b383-0d7abea9b540)
-![Analiza TDA danych tenisa stołowego-4](https://github.com/user-attachments/assets/4dfa0220-2d71-4305-bd2d-26d239f359ab)
-![Analiza TDA danych tenisa stołowego-5](https://github.com/user-attachments/assets/9cc802aa-2065-4aa8-9274-6c1f836ac88d)
-# Topological_data_analysis_table_tennis
+![Analiza TDA danych tenisa stołowego-1](https://github.com/user-attachments/assets/cca645e3-4b4c-4462-b778-2a5b84374877)
+![Analiza TDA danych tenisa stołowego-2](https://github.com/user-attachments/assets/f3a93769-7812-4da3-aa98-6a97b65a4141)
+![Analiza TDA danych tenisa stołowego-3](https://github.com/user-attachments/assets/a273a9a4-ee69-46a7-96da-19065f7df100)
+![Analiza TDA danych tenisa stołowego-4](https://github.com/user-attachments/assets/e4f109a1-adbf-4de8-97eb-27ff946e5b07)
+![Analiza TDA danych tenisa stołowego-5](https://github.com/user-attachments/assets/5786fd34-6808-40d7-9ec6-c46e569c6028)
